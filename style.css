@@ -32,9 +32,9 @@ header {
 }
 
 .logo {
-    font-size: 20px;
+    font-size: 28px;
     font-weight: 800;
-    letter-spacing: -0.5px;
+    letter-spacing: -1px;
     color: #f3f4f6;
     
 }
@@ -141,7 +141,7 @@ h1 span {
 }
 
 .section-header p {
-    color: #9ca3af;
+    color: #19386e; 
     max-width: 500px;
     margin: 0 auto;
 }
